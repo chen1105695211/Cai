@@ -11,5 +11,8 @@ public class ThreeActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_three);
         Toast.makeText(ThreeActivity.this, "这是添加", Toast.LENGTH_SHORT).show();
+        Toast.makeText(ThreeActivity.this, "这是", Toast.LENGTH_SHORT).show();
+        Toast.makeText(ThreeActivity.this, "这是添", Toast.LENGTH_SHORT).show();
+
     }
 }
