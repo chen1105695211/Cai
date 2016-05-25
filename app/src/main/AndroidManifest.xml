@@ -19,10 +19,7 @@
         </activity>
         <activity android:name=".TwoActivity" />
         <activity android:name=".ThreeActivity" />
-        <activity
-            android:name="chongzou.my.Main2Activity"
-            android:label="@string/title_activity_main2"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity android:name="chongzou.my.FourActivity"></activity>
     </application>
 
 </manifest>
