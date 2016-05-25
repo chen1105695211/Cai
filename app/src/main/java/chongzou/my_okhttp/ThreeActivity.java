@@ -4,7 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.Toast;
 
-public class ThreeActivity extends AppCompatActivity {
+public class ThreeActivity extends AppCompatActivity{
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -15,7 +15,7 @@ public class ThreeActivity extends AppCompatActivity {
         Toast.makeText(ThreeActivity.this, "这是添", Toast.LENGTH_SHORT).show();
         Toast.makeText(ThreeActivity.this, "这是添", Toast.LENGTH_SHORT).show();
         Toast.makeText(ThreeActivity.this, "这是添123", Toast.LENGTH_SHORT).show();
-
+        Toast.makeText(ThreeActivity.this, "这是添123", Toast.LENGTH_SHORT).show();
 
     }
 }
