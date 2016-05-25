@@ -15,7 +15,7 @@ public class ThreeActivity extends AppCompatActivity{
         Toast.makeText(ThreeActivity.this, "这是添", Toast.LENGTH_SHORT).show();
         Toast.makeText(ThreeActivity.this, "这是添", Toast.LENGTH_SHORT).show();
         Toast.makeText(ThreeActivity.this, "这是添123", Toast.LENGTH_SHORT).show();
-        Toast.makeText(ThreeActivity.this, "这是添123", Toast.LENGTH_SHORT).show();
+        Toast.makeText(ThreeActivity.this, "这是添3", Toast.LENGTH_SHORT).show();
 
     }
 }
